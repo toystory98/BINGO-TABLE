@@ -1,10 +1,3 @@
-# modify by Chaninat boonsiri 6001012620076 SUBJECT : SOFTWARE DEVELOPMENT PRACTICE 
-# This code use for calculate equasion that can put number and operator to find answer that use Pygame on Python
-# Reference by https://github.com/toystory98/pycalculator/blob/master/calculator.py
-#            https://www.pygame.org/docs/
-#            https://stackoverflow.com/questions/10990137/pygame-mouse-clicking-detection
-# BLOG : https://goo.gl/GMh3kj
-# GITHUB : 
 
 import random
 import pygame, sys
